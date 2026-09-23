@@ -74,8 +74,8 @@ export function App() {
         </section>
 
         <footer className="credit">
-          Photos: "Street Food - Chai Walla" by Steve Browne &amp; John Verkleir, CC BY 2.0 ·
-          "Tuk Tuk on streets of Delhi" by PIVISO, CC0 · Wikimedia Commons
+          Art: "Street Scene in India" by Edwin Lord Weeks, CC0 ·
+          "Calcutta Nostalgia" by Avanish Trivedi, CC BY-SA 4.0 · Wikimedia Commons
         </footer>
       </main>
     </div>
