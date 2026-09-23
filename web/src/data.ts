@@ -55,8 +55,8 @@ export function firstRule(shop: ShopId, slip: SlipId, who: WhoId) {
 }
 
 export const PHOTOS = {
-  chai: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Street_Food_-_Chai_Walla%2C_Calcutta_-_Nov_2010.jpg/1280px-Street_Food_-_Chai_Walla%2C_Calcutta_-_Nov_2010.jpg",
-  auto: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tuk_Tuk_on_streets_of_Delhi%2C_India_%2826661971496%29.jpg/1280px-Tuk_Tuk_on_streets_of_Delhi%2C_India_%2826661971496%29.jpg",
+  chai: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Street_Scene_in_India_-_Painting.jpg/1920px-Street_Scene_in_India_-_Painting.jpg",
+  auto: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Calcutta_Nostalia_painting_done_by_me.jpg/1920px-Calcutta_Nostalia_painting_done_by_me.jpg",
 };
 
 export const STEPS = [
